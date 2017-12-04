@@ -1,6 +1,0 @@
-c:\users\kyle jansma\documents\visual studio 2017\Projects\TLOPOShardReader\bin\Debug\TLOPOShardReader.exe.config
-c:\users\kyle jansma\documents\visual studio 2017\Projects\TLOPOShardReader\bin\Debug\TLOPOShardReader.exe
-c:\users\kyle jansma\documents\visual studio 2017\Projects\TLOPOShardReader\bin\Debug\TLOPOShardReader.pdb
-c:\users\kyle jansma\documents\visual studio 2017\Projects\TLOPOShardReader\obj\Debug\TLOPOShardReader.csprojResolveAssemblyReference.cache
-c:\users\kyle jansma\documents\visual studio 2017\Projects\TLOPOShardReader\obj\Debug\TLOPOShardReader.exe
-c:\users\kyle jansma\documents\visual studio 2017\Projects\TLOPOShardReader\obj\Debug\TLOPOShardReader.pdb
