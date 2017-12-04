@@ -1,0 +1,1931 @@
+:12-02-2017 17:48:01 ShowBase: __dev__ == 0
+316 explicit pages
+
+0 implicit pages
+
+:12-02-2017 17:48:01 :prc(warning): changing type for ConfigVariable model-cache-dir from filename to string.
+:12-02-2017 17:48:01 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:48:01 PiratesBase: Requested graphics API = pandagl
+:12-02-2017 17:48:01 :display: loading display module: pandagl
+:12-02-2017 17:48:01 :display:windisplay: OS version: 6.2.2.9200 
+:12-02-2017 17:48:01 :display:windisplay:   
+:12-02-2017 17:48:01 :display:windisplay: max Mhz 2701000000, current Mhz 2701000000 
+:12-02-2017 17:48:01 PiratesBase: Loaded requested graphics wglGraphicsPipe
+state = working
+:12-02-2017 17:48:01 Options: Loaded Game Options
+:12-02-2017 17:48:01 Options: version = 16
+:12-02-2017 17:48:01 Options: state = 'working'
+:12-02-2017 17:48:01 Options: api = 'pandagl'
+:12-02-2017 17:48:01 Options: window_width = 800
+:12-02-2017 17:48:01 Options: window_height = 600
+:12-02-2017 17:48:01 Options: fullscreen_width = 800
+:12-02-2017 17:48:01 Options: fullscreen_height = 600
+:12-02-2017 17:48:01 Options: resolution = 0
+:12-02-2017 17:48:01 Options: embedded = 0
+:12-02-2017 17:48:01 Options: fullscreen = 0
+:12-02-2017 17:48:01 Options: widescreen = 0
+:12-02-2017 17:48:01 Options: widescreen_resolution = 0
+:12-02-2017 17:48:01 Options: widescreen_fullscreen = 0
+:12-02-2017 17:48:01 Options: reflection = 1
+:12-02-2017 17:48:01 Options: shader = 0
+:12-02-2017 17:48:01 Options: shader_level = 0
+:12-02-2017 17:48:01 Options: shadow = 0
+:12-02-2017 17:48:01 Options: texture = 512
+:12-02-2017 17:48:01 Options: texture_compression = 0
+:12-02-2017 17:48:01 Options: sound = 1
+:12-02-2017 17:48:01 Options: sound_volume = 0.08292064070701599
+:12-02-2017 17:48:01 Options: music = 0
+:12-02-2017 17:48:01 Options: music_volume = 1.0
+:12-02-2017 17:48:01 Options: first_mate_voice = 1
+:12-02-2017 17:48:01 Options: gui_scale = 0.5
+:12-02-2017 17:48:01 Options: fancy_loading_screen = 1
+:12-02-2017 17:48:01 Options: classical_sky_dome = 1
+:12-02-2017 17:48:01 Options: fps_counter = 1
+:12-02-2017 17:48:01 Options: vsync = 0
+:12-02-2017 17:48:01 Options: chatbox_scale = 0.0
+:12-02-2017 17:48:01 Options: special_effects = 1
+:12-02-2017 17:48:01 Options: texture_scale = 0.5
+:12-02-2017 17:48:01 Options: character_detail_level = 1
+:12-02-2017 17:48:01 Options: terrain_detail_level = 1
+:12-02-2017 17:48:01 Options: memory = 0
+:12-02-2017 17:48:01 Options: mouse_look = 0
+:12-02-2017 17:48:01 Options: ship_look = 1
+:12-02-2017 17:48:01 Options: gamma = 0.0
+:12-02-2017 17:48:01 Options: gamma_enable = 0
+:12-02-2017 17:48:01 Options: cpu_frequency_warning = 1
+:12-02-2017 17:48:01 Options: hdr = 0
+:12-02-2017 17:48:01 Options: hdr_factor = 1.0
+:12-02-2017 17:48:01 Options: ship_visibility_from_islands = 0
+:12-02-2017 17:48:01 Options: land_map_radar_axis= 0
+:12-02-2017 17:48:01 Options: ocean_map_radar_axis= 1
+:12-02-2017 17:48:01 Options: simple_display_option= 1
+:12-02-2017 17:48:01 Options: use_stereo= 0
+:12-02-2017 17:48:01 :display:windisplay(warning): Could not find icon filename resources/phase_4/etc/Pirates_Adds.ico
+:12-02-2017 17:48:02 PiratesBase: Successfully opened window of type wglGraphicsWindow (OpenGL)
+:12-02-2017 17:48:02 PiratesBase: Got window event: size=(800, 600) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:48:02 :text: Loading font /d/Games/The Legend of Pirates Online/TLOPO/resources/phase_2/models/fonts/BriosoPro_chipped.bam
+:12-02-2017 17:48:02 :text: Loading font /d/Games/The Legend of Pirates Online/TLOPO/resources/phase_2/models/fonts/BriosoPro_chipped_outline.bam
+:12-02-2017 17:48:03 :text: Loading font /d/Games/The Legend of Pirates Online/TLOPO/resources/phase_2/models/fonts/BardiT_outline.bam
+:12-02-2017 17:48:03 PiratesBase: Got window event: size=(800, 600) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:48:05 :audio(error): createSound(audio/sfx_cutlass_headbutt.ogg): File not found. 
+:12-02-2017 17:48:08 :audio(error): createSound(audio/sfx_cutlass_headbutt.ogg): File not found. 
+:12-02-2017 17:48:09 :audio(error): createSound(audio/gunshot1.ogg): File not found. 
+:12-02-2017 17:48:09 :audio(error): createSound(audio/musketCock.ogg): File not found. 
+:12-02-2017 17:48:09 :audio(error): createSound(audio/sword_clashNclang.ogg): File not found. 
+:12-02-2017 17:48:09 :audio(error): createSound(audio/sword_clashNclang.ogg): File not found. 
+:12-02-2017 17:48:11 :audio(error): createSound(audio/sword_clashNclang.ogg): File not found. 
+:12-02-2017 17:48:11 :audio(error): createSound(audio/sword_clashNclang.ogg): File not found. 
+:12-02-2017 17:48:11 :audio(error): createSound(audio/sword_clashNclang.ogg): File not found. 
+:12-02-2017 17:48:11 :audio(error): createSound(audio/sword_clashNclang.ogg): File not found. 
+:12-02-2017 17:48:11 :audio(error): createSound(audio/musketCock.ogg): File not found. 
+:12-02-2017 17:48:12 :audio(error): createSound(audio/sfx_scorpion_death.ogg): File not found. 
+:12-02-2017 17:48:12 :audio(error): createSound(audio/sfx_scorpion_knockback.ogg): File not found. 
+serverVersion:  tlopo-rc-v1.7.7
+:12-02-2017 17:48:14 :text: Loading font /d/Games/The Legend of Pirates Online/TLOPO/resources/phase_2/models/fonts/BardiT.bam
+Initializing quest ladders...
+:12-02-2017 17:48:15 :text(warning): Creating default TextProperties for name 'purple'
+:12-02-2017 17:48:15 :text(warning): Creating default TextProperties for name 'orange'
+:12-02-2017 17:48:15 :text(warning): Creating default TextProperties for name 'maroon'
+:12-02-2017 17:48:15 :text(warning): Creating default TextProperties for name 'lightGold'
+BpDb.bpGroup is deprecated, use bpdb.bpPreset instead
+BpDb.bpGroup is deprecated, use bpdb.bpPreset instead
+BpDb.bpGroup is deprecated, use bpdb.bpPreset instead
+:12-02-2017 17:48:16 PiratesClientRepository: Using connect method 'http'
+:12-02-2017 17:48:17 PiratesClientRepository: loginInterface: LoginPlayTokenAccount
+:12-02-2017 17:48:17 DistributedObjectGlobal(warning): ChatManager going online
+:12-02-2017 17:48:17 DistributedShipLoader(warning): ShipLoader going online
+:12-02-2017 17:48:30 PiratesBase: Using gameServer from launcher: prod-gs-protected-agent-2.legendofpiratesonline.com;prod-gs-protected-agent-3.legendofpiratesonline.com;prod-gs-protected-agent-5.legendofpiratesonline.com;prod-gs-protected-agent-6.legendofpiratesonline.com;prod-gs-protected-agent-1.legendofpiratesonline.com;prod-gs-protected-agent-4.legendofpiratesonline.com 
+:12-02-2017 17:48:30 PiratesClientRepository: Connecting to gameserver directly (no proxy).
+:12-02-2017 17:48:30 :downloader: [2B8CE1C0] created.
+:12-02-2017 17:48:30 PiratesClientRepository: Connecting to s://prod-gs-protected-agent-2.legendofpiratesonline.com:7969 via HTTP interface.
+:12-02-2017 17:48:30 :downloader: [2B8CE1C0] begin CONNECT [ s://prod-gs-protected-agent-2.legendofpiratesonline.com:7969 ]
+:12-02-2017 17:48:30 :downloader: [2B8CE1C0] reset_to_new.
+:12-02-2017 17:48:30 :downloader: [2B8CE1C0] reset_to_new.
+:12-02-2017 17:48:30 :downloader: [2B8CE1C0] reset_to_new.
+:12-02-2017 17:48:31 :downloader: [2B8CE1C0] Connected to prod-gs-protected-agent-2.legendofpiratesonline.com:7969
+:12-02-2017 17:48:52 :downloader: [2B8CE1C0] Could not establish SSL handshake with prod-gs-protected-agent-2.legendofpiratesonline.com:7969
+:12-02-2017 17:48:52 PiratesClientRepository: Connecting to s://prod-gs-protected-agent-3.legendofpiratesonline.com:7969 via HTTP interface.
+:12-02-2017 17:48:52 :downloader: [2B8CE1C0] begin CONNECT [ s://prod-gs-protected-agent-3.legendofpiratesonline.com:7969 ]
+:12-02-2017 17:48:52 :downloader: [2B8CE1C0] reset_to_new.
+:12-02-2017 17:48:52 :downloader: [2B8CE1C0] reset_to_new.
+:12-02-2017 17:48:52 :downloader: [2B8CE1C0] Connected to prod-gs-protected-agent-3.legendofpiratesonline.com:7969
+:12-02-2017 17:48:53 :downloader: Server certificate is pre-approved.
+:12-02-2017 17:48:53 :downloader: [2B8CE1C0] Self-signed certificate from prod-gs-protected-agent-3.legendofpiratesonline.com:7969
+:12-02-2017 17:48:53 :downloader: [2B8CE1C0] reset_to_new.
+:12-02-2017 17:48:53 PiratesClientRepository: Successfully connected to s://prod-gs-protected-agent-3.legendofpiratesonline.com:7969.
+########## startReaderPollTask Pirate
+########## stopReaderPollTask Pirate
+:12-02-2017 17:48:53 :downloader: [2B8CE1C0] destroyed.
+:12-02-2017 17:48:53 PiratesLauncher: Setting Disconnect Details normal
+########## startReaderPollTask Pirate
+########## stopReaderPollTask Pirate
+:12-02-2017 17:48:53 LoadingScreen(warning): step PrepLogin was started before loading screen was enabled
+New DO:416000001, dclass:PiratesDistrict
+New DO:413000001, dclass:PiratesDistrict
+New DO:403000001, dclass:PiratesDistrict
+New DO:401000001, dclass:PiratesDistrict
+New DO:404000001, dclass:PiratesDistrict
+New DO:402000001, dclass:PiratesDistrict
+New DO:410000001, dclass:PiratesDistrict
+New DO:414000001, dclass:PiratesDistrict
+New DO:407000001, dclass:PiratesDistrict
+New DO:405000001, dclass:PiratesDistrict
+New DO:409000001, dclass:PiratesDistrict
+New DO:411000001, dclass:PiratesDistrict
+New DO:406000001, dclass:PiratesDistrict
+New DO:415000001, dclass:PiratesDistrict
+New DO:412000001, dclass:PiratesDistrict
+New DO:408000001, dclass:PiratesDistrict
+{414000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5530>, 402000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5210>, 407000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5238>, 409000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A53A0>, 416000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A9F08>, 411000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5620>, 404000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A55F8>, 413000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5558>, 406000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A9968>, 415000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A98A0>, 408000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A04B8>, 401000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5378>, 410000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A53F0>, 403000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A5580>, 412000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A06E8>, 405000001: <pirates.distributed.PiratesDistrict.PiratesDistrict instance at 0x2A6A53C8>}
+:12-02-2017 17:48:54 :audio(error): createSound(audio/avchooser-theme): File not found. 
+:12-02-2017 17:48:54 :audio(error): createSound(audio/ship_rigging_std.ogg): File not found. 
+getSubTimeList
+ sub was None for 0
+setEnvironment unnamed 8 {}
+getSubTimeList
+ sub was None for 8
+:12-02-2017 17:48:54 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:48:54 :text: Loading font /d/Games/The Legend of Pirates Online/TLOPO/resources/phase_2/models/fonts/BriosoPro_bold_outline.bam
+:12-02-2017 17:48:55 AvatarChooser: Queueing is complete!
+:12-02-2017 17:48:55 LoadingScreen(warning): step AvChooser was started before loading screen was enabled
+:12-02-2017 17:48:56 PiratesBase: Got window event: size=(800, 600) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:48:57 PiratesBase: Got window event: origin=(78, 100) size=(800, 600) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:48:58 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 17:49:03 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:49:25 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:49:29 AvatarChooser: AvatarChooser: wants to play slot: 0 avId: 300132051 subId: 300132050
+:12-02-2017 17:49:29 AvatarChooser: AvatarChooser: acquired avatar slot: 0 avId: 300132051 subId: 300132050
+:12-02-2017 17:49:29 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:49:29 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:49:29 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:49:29 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:49:29 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:49:29 DisplayOptions(debug): restrict_to_embedded: 0
+:12-02-2017 17:49:29 LoadingScreen(warning): step waitForAv was started before loading screen was enabled
+:12-02-2017 17:49:30 Loader: loader.loadModelOnce() is deprecated; use loader.loadModel() instead.
+:12-02-2017 17:49:32 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Cannot configure initialisation option "scale" for DirectFrame
+{0: {'options': {'execute': 'findPvp'}}, 1: {'style': {0: {'options': {9: [5, '8'], 7: [0, ['2', '3', '4', '5', '6']]}}, 2: {'options': {9: [5, '8'], 7: [0, ['4', '6']]}}}}, 2: {'options': {'execute': 'find'}}, 4: {'style': {10: {'options': {9: [5, '6']}}, 11: {'options': {9: [5, '6']}}}}, 5: {'style': <function gatherGameStyleInfo at 0x23868670>, 'hidden': True}}
+:12-02-2017 17:49:33 PiratesClientRepository: Current shard is: 0
+:12-02-2017 17:49:33 Consumable(warning): Collision not found!
+not SkillButton.SkillIcons:
+:12-02-2017 17:49:34 PiratesClientRepository: Sending heartbeat mid-frame.
+:12-02-2017 17:49:34 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+getSubTimeList
+ sub was None for 0
+New DO:409000008, dclass:DistributedTimeOfDayManager
+New DO:409000010, dclass:DistributedGameStatManager
+New DO:409000009, dclass:TargetManager
+New DO:409000003, dclass:DistributedMainWorld
+New DO:409000004, dclass:DistributedInstanceWorld
+New DO:409000006, dclass:PiratesMagicWordManager
+:12-02-2017 17:49:35 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:409000005, dclass:PiratesTimeManager
+New DO:409000007, dclass:DistributedTeleportMgr
+New DO:409000016, dclass:PVPManager
+New DO:409000012, dclass:DistributedPirateBandManager
+New DO:409000011, dclass:DistributedPirateProfileMgr
+New DO:409000014, dclass:DistributedLootManager
+New DO:409000015, dclass:Warden
+:12-02-2017 17:49:36 TimeManager: Clock sync roundtrip took 242.900 ms
+:12-02-2017 17:49:36 TimeManager: AI time delta is -0:01 from server delta
+:12-02-2017 17:49:36 TimeManager: Local clock uncertainty +/- 0.121 s
+getSubTimeList
+ sub was None for 0
+New DO:409000017, dclass:DistributedOceanGrid
+New DO:409000018, dclass:SiegeManager
+New DO:409000019, dclass:Scoreboard
+New DO:409002067, dclass:DistributedIsland
+New DO:409002065, dclass:DistributedIsland
+New DO:409001988, dclass:DistributedIsland
+New DO:409001986, dclass:DistributedIsland
+New DO:409001890, dclass:DistributedIsland
+New DO:409001888, dclass:DistributedIsland
+New DO:409001278, dclass:DistributedIsland
+New DO:409001233, dclass:DistributedIsland
+New DO:409001142, dclass:DistributedIsland
+New DO:409001060, dclass:DistributedIsland
+New DO:409001058, dclass:DistributedIsland
+New DO:409000967, dclass:DistributedIsland
+New DO:409000965, dclass:DistributedIsland
+New DO:409000909, dclass:DistributedIsland
+New DO:409000880, dclass:DistributedIsland
+New DO:409000808, dclass:DistributedIsland
+New DO:409000606, dclass:DistributedIsland
+New DO:409000520, dclass:DistributedIsland
+New DO:409000492, dclass:DistributedIsland
+New DO:409000053, dclass:DistributedIsland
+New DO:409000051, dclass:DistributedIsland
+New DO:409000021, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 17:49:38 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 17:49:43 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:49:43 DistributedNPCTownfolk(warning): avatar does not have inventory yet
+:12-02-2017 17:49:43 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:49:43 DistributedNPCTownfolk(warning): avatar does not have inventory yet
+New DO:409002473, dclass:DistributedBuildingDoor
+New DO:409002586, dclass:DistributedBuildingDoor
+New DO:409002564, dclass:DistributedBuildingDoor
+New DO:409002543, dclass:DistributedBuildingDoor
+New DO:409002542, dclass:DistributedBuildingDoor
+New DO:409002533, dclass:DistributedBuildingDoor
+New DO:409002532, dclass:DistributedBuildingDoor
+New DO:409002524, dclass:DistributedBuildingDoor
+New DO:409002514, dclass:DistributedBuildingDoor
+New DO:409002507, dclass:DistributedBuildingDoor
+New DO:409002499, dclass:DistributedBuildingDoor
+New DO:409002491, dclass:DistributedBuildingDoor
+New DO:409002490, dclass:DistributedBuildingDoor
+New DO:409002482, dclass:DistributedBuildingDoor
+New DO:409002474, dclass:DistributedBuildingDoor
+New DO:409002159, dclass:DistributedBuildingDoor
+New DO:409002467, dclass:DistributedBuildingDoor
+New DO:409002403, dclass:DistributedBuildingDoor
+New DO:409002402, dclass:DistributedBuildingDoor
+New DO:409002242, dclass:DistributedBuildingDoor
+New DO:409002236, dclass:DistributedBuildingDoor
+New DO:409002235, dclass:DistributedBuildingDoor
+New DO:409002204, dclass:DistributedBuildingDoor
+New DO:409002193, dclass:DistributedBuildingDoor
+New DO:409002192, dclass:DistributedBuildingDoor
+New DO:409002183, dclass:DistributedBuildingDoor
+New DO:409002167, dclass:DistributedBuildingDoor
+New DO:409002166, dclass:DistributedBuildingDoor
+New DO:409002160, dclass:DistributedBuildingDoor
+:12-02-2017 17:49:43 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:49:43 DistributedNPCTownfolk(warning): avatar does not have inventory yet
+New DO:409002592, dclass:DistributedTunnel
+New DO:409002598, dclass:DistributedTunnel
+New DO:409002600, dclass:DistributedTunnel
+New DO:702722248, dclass:PirateInventory
+New DO:703924455, dclass:DistributedQuest
+New DO:702799885, dclass:DistributedQuest
+New DO:702799728, dclass:DistributedQuest
+{0: {'options': {'execute': 'findPvp'}}, 1: {'style': {0: {'options': {9: [5, '8'], 7: [0, ['2', '3', '4', '5', '6']]}}, 2: {'options': {9: [5, '8'], 7: [0, ['4', '6']]}}}}, 2: {'options': {'execute': 'find'}}, 4: {'style': {10: {'options': {9: [5, '6']}}, 11: {'options': {9: [5, '6']}}}}, 5: {'style': <function gatherGameStyleInfo at 0x23868670>, 'hidden': False}}
+New DO:702921867, dclass:DistributedTreasureMap
+New DO:703434136, dclass:DistributedQuest
+New DO:703421542, dclass:DistributedQuest
+New DO:702900402, dclass:DistributedQuest
+getSubTimeList
+ sub was None for 255
+:12-02-2017 17:50:17 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 17:50:23 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:50:28 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 17:50:28 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 17:50:28 LocalPirate(warning): ignoring arrivedOnDistrict 0, since arrivedOnDistrict 406000001 occured on the same frame
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002473
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002236
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002235
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002167
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002533
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002491
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002507
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002532
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002242
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002543
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002586
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002166
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002564
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002467
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002542
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002524
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002514
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002499
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002402
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002490
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002482
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002474
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002183
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002159
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002403
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002204
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002193
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002192
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002160
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 PiratesClientRepository(warning): Asked to delete non-existent DistObj 409002068
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 TimeManager: Client disconnect reason 4.
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:50:29 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:406000008, dclass:DistributedTimeOfDayManager
+New DO:406000010, dclass:DistributedGameStatManager
+New DO:406000009, dclass:TargetManager
+New DO:406000003, dclass:DistributedMainWorld
+New DO:406000004, dclass:DistributedInstanceWorld
+New DO:406000006, dclass:PiratesMagicWordManager
+:12-02-2017 17:50:30 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:406000005, dclass:PiratesTimeManager
+New DO:406000007, dclass:DistributedTeleportMgr
+New DO:406000016, dclass:PVPManager
+New DO:406000012, dclass:DistributedPirateBandManager
+New DO:406000011, dclass:DistributedPirateProfileMgr
+New DO:406000014, dclass:DistributedLootManager
+New DO:406000015, dclass:Warden
+:12-02-2017 17:50:30 TimeManager: Clock sync roundtrip took 213.785 ms
+:12-02-2017 17:50:30 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2017 17:50:30 ClockDelta: previous delta at -233839.795 s, +/- 0.137 s.
+:12-02-2017 17:50:30 ClockDelta: new delta at -233839.814 s, +/- 0.107 s.
+:12-02-2017 17:50:30 ClockDelta: intersection at -233839.814 s, +/- 0.107 s.
+:12-02-2017 17:50:30 TimeManager: Local clock uncertainty +/- 0.107 s
+getSubTimeList
+ sub was None for 0
+New DO:406000017, dclass:DistributedOceanGrid
+New DO:406000018, dclass:SiegeManager
+New DO:406000019, dclass:Scoreboard
+New DO:406002067, dclass:DistributedIsland
+New DO:406002065, dclass:DistributedIsland
+New DO:406001988, dclass:DistributedIsland
+New DO:406001986, dclass:DistributedIsland
+New DO:406001890, dclass:DistributedIsland
+New DO:406001888, dclass:DistributedIsland
+New DO:406001278, dclass:DistributedIsland
+New DO:406001233, dclass:DistributedIsland
+New DO:406001142, dclass:DistributedIsland
+New DO:406001060, dclass:DistributedIsland
+New DO:406001058, dclass:DistributedIsland
+New DO:406000967, dclass:DistributedIsland
+New DO:406000965, dclass:DistributedIsland
+New DO:406000909, dclass:DistributedIsland
+New DO:406000880, dclass:DistributedIsland
+New DO:406000808, dclass:DistributedIsland
+New DO:406000606, dclass:DistributedIsland
+New DO:406000520, dclass:DistributedIsland
+New DO:406000492, dclass:DistributedIsland
+New DO:406000053, dclass:DistributedIsland
+New DO:406000051, dclass:DistributedIsland
+New DO:406000021, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 17:50:32 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 17:50:35 PiratesClientRepository: Sending heartbeat mid-frame.
+:12-02-2017 17:50:35 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:50:35 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:406002473, dclass:DistributedBuildingDoor
+New DO:406002586, dclass:DistributedBuildingDoor
+New DO:406002564, dclass:DistributedBuildingDoor
+New DO:406002543, dclass:DistributedBuildingDoor
+New DO:406002542, dclass:DistributedBuildingDoor
+New DO:406002533, dclass:DistributedBuildingDoor
+New DO:406002532, dclass:DistributedBuildingDoor
+New DO:406002524, dclass:DistributedBuildingDoor
+New DO:406002514, dclass:DistributedBuildingDoor
+New DO:406002507, dclass:DistributedBuildingDoor
+New DO:406002499, dclass:DistributedBuildingDoor
+New DO:406002491, dclass:DistributedBuildingDoor
+New DO:406002490, dclass:DistributedBuildingDoor
+New DO:406002482, dclass:DistributedBuildingDoor
+New DO:406002474, dclass:DistributedBuildingDoor
+New DO:406002159, dclass:DistributedBuildingDoor
+New DO:406002467, dclass:DistributedBuildingDoor
+New DO:406002403, dclass:DistributedBuildingDoor
+New DO:406002402, dclass:DistributedBuildingDoor
+New DO:406002242, dclass:DistributedBuildingDoor
+New DO:406002236, dclass:DistributedBuildingDoor
+New DO:406002235, dclass:DistributedBuildingDoor
+New DO:406002204, dclass:DistributedBuildingDoor
+New DO:406002193, dclass:DistributedBuildingDoor
+New DO:406002192, dclass:DistributedBuildingDoor
+New DO:406002183, dclass:DistributedBuildingDoor
+New DO:406002167, dclass:DistributedBuildingDoor
+New DO:406002166, dclass:DistributedBuildingDoor
+New DO:406002160, dclass:DistributedBuildingDoor
+:12-02-2017 17:50:35 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:406002592, dclass:DistributedTunnel
+New DO:406002598, dclass:DistributedTunnel
+New DO:406002600, dclass:DistributedTunnel
+:12-02-2017 17:51:38 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:51:40 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:51:43 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 17:51:51 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:51:57 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 17:51:57 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 17:51:57 LocalPirate(warning): ignoring arrivedOnDistrict 0, since arrivedOnDistrict 416000001 occured on the same frame
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002160
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002167
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002183
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002235
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002236
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002467
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002474
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002490
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002491
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002499
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002507
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002532
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002533
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002542
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002543
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002586
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002473
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002242
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002482
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002159
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002204
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002403
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002402
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002193
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002192
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002166
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002564
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002524
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002514
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 PiratesClientRepository(warning): Asked to delete non-existent DistObj 406002068
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 TimeManager: Client disconnect reason 4.
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:51:58 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:416000008, dclass:DistributedTimeOfDayManager
+New DO:416000010, dclass:DistributedGameStatManager
+New DO:416000009, dclass:TargetManager
+New DO:416000003, dclass:DistributedMainWorld
+New DO:416000004, dclass:DistributedInstanceWorld
+New DO:416000006, dclass:PiratesMagicWordManager
+:12-02-2017 17:51:59 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:416000005, dclass:PiratesTimeManager
+New DO:416000007, dclass:DistributedTeleportMgr
+New DO:416000016, dclass:PVPManager
+New DO:416000012, dclass:DistributedPirateBandManager
+New DO:416000011, dclass:DistributedPirateProfileMgr
+New DO:416000014, dclass:DistributedLootManager
+New DO:416000015, dclass:Warden
+:12-02-2017 17:51:59 TimeManager: Clock sync roundtrip took 233.441 ms
+:12-02-2017 17:51:59 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2017 17:51:59 ClockDelta: previous delta at -233839.814 s, +/- 0.132 s.
+:12-02-2017 17:51:59 ClockDelta: new delta at -127980.797 s, +/- 0.117 s.
+:12-02-2017 17:51:59 ClockDelta: discarding previous delta.
+:12-02-2017 17:51:59 TimeManager: Local clock uncertainty +/- 0.117 s
+getSubTimeList
+ sub was None for 0
+New DO:416000017, dclass:DistributedOceanGrid
+New DO:416000018, dclass:SiegeManager
+New DO:416000019, dclass:Scoreboard
+New DO:416001888, dclass:DistributedIsland
+New DO:416000909, dclass:DistributedIsland
+New DO:416000967, dclass:DistributedIsland
+New DO:416001233, dclass:DistributedIsland
+New DO:416001890, dclass:DistributedIsland
+New DO:416000492, dclass:DistributedIsland
+New DO:416000880, dclass:DistributedIsland
+New DO:416001142, dclass:DistributedIsland
+New DO:416000965, dclass:DistributedIsland
+New DO:416001988, dclass:DistributedIsland
+New DO:416000520, dclass:DistributedIsland
+New DO:416001986, dclass:DistributedIsland
+New DO:416001060, dclass:DistributedIsland
+New DO:416000808, dclass:DistributedIsland
+New DO:416002067, dclass:DistributedIsland
+New DO:416001058, dclass:DistributedIsland
+New DO:416002065, dclass:DistributedIsland
+New DO:416000053, dclass:DistributedIsland
+New DO:416000051, dclass:DistributedIsland
+New DO:416000021, dclass:DistributedIsland
+New DO:416001278, dclass:DistributedIsland
+New DO:416000606, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 17:52:01 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 17:52:04 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:52:04 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:416002564, dclass:DistributedBuildingDoor
+New DO:416002167, dclass:DistributedBuildingDoor
+New DO:416002166, dclass:DistributedBuildingDoor
+New DO:416002533, dclass:DistributedBuildingDoor
+New DO:416002532, dclass:DistributedBuildingDoor
+New DO:416002242, dclass:DistributedBuildingDoor
+New DO:416002586, dclass:DistributedBuildingDoor
+New DO:416002236, dclass:DistributedBuildingDoor
+New DO:416002159, dclass:DistributedBuildingDoor
+New DO:416002235, dclass:DistributedBuildingDoor
+New DO:416002467, dclass:DistributedBuildingDoor
+New DO:416002160, dclass:DistributedBuildingDoor
+New DO:416002403, dclass:DistributedBuildingDoor
+New DO:416002499, dclass:DistributedBuildingDoor
+New DO:416002542, dclass:DistributedBuildingDoor
+New DO:416002524, dclass:DistributedBuildingDoor
+New DO:416002204, dclass:DistributedBuildingDoor
+New DO:416002507, dclass:DistributedBuildingDoor
+New DO:416002482, dclass:DistributedBuildingDoor
+New DO:416002193, dclass:DistributedBuildingDoor
+New DO:416002192, dclass:DistributedBuildingDoor
+New DO:416002474, dclass:DistributedBuildingDoor
+New DO:416002183, dclass:DistributedBuildingDoor
+New DO:416002514, dclass:DistributedBuildingDoor
+New DO:416002402, dclass:DistributedBuildingDoor
+New DO:416002543, dclass:DistributedBuildingDoor
+New DO:416002473, dclass:DistributedBuildingDoor
+New DO:416002491, dclass:DistributedBuildingDoor
+New DO:416002490, dclass:DistributedBuildingDoor
+New DO:416002592, dclass:DistributedTunnel
+New DO:416002598, dclass:DistributedTunnel
+New DO:416002600, dclass:DistributedTunnel
+:12-02-2017 17:53:17 GarbageCollect(warning): garbage found, reverting gc threshold
+:12-02-2017 17:53:19 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:53:21 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:53:31 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1379.9, 8.3, -258.3, Panda Pos: , -1379.9, 258.3, 8.3, H: -101.4, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:53:35 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:53:53 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1379.9, 8.3, -258.3, Panda Pos: , -1379.9, 258.3, 8.3, H: -101.4, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1394.2, 7.5, -256.6, Panda Pos: , -1394.2, 256.6, 7.5, H: 16.6, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1399.8, 7.1, -275.2, Panda Pos: , -1399.8, 275.2, 7.1, H: 16.6, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1403.2, 6.8, -286.6, Panda Pos: , -1403.2, 286.6, 6.8, H: 16.6, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1408.1, 6.4, -303.1, Panda Pos: , -1408.1, 303.1, 6.4, H: 16.6, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:54:00 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:54:01 PiratesBase: Got window event: origin=(1, 31) size=(958, 488) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:54:07 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:54:07 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1411.1, 6.1, -314.0, Panda Pos: , -1411.1, 314.0, 6.1, H: 15.3, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (416002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:54:17 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:54:26 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:54:27 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:54:28 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:54:28 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:55:26 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:55:26 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:55:26 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:55:26 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:55:26 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:55:27 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+frame rate: 83.3 fps|0.002d|3 avs|0 ships|Loading: Padres Del Fuego|444|540|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 17:57:01 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:02 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:04 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 17:57:17 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 17:57:17 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 17:57:18 LocalPirate(warning): ignoring arrivedOnDistrict 0, since arrivedOnDistrict 413000001 occured on the same frame
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002490
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002491
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002543
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002514
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002183
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002474
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002507
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002524
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002542
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002160
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002467
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002235
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002236
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002586
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002532
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002533
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002167
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002166
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002564
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002242
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002159
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002482
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002204
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002403
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002402
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002193
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002192
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002473
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002499
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 PiratesClientRepository(warning): Asked to delete non-existent DistObj 416002068
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 TimeManager: Client disconnect reason 4.
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 17:57:18 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:413000008, dclass:DistributedTimeOfDayManager
+New DO:413000010, dclass:DistributedGameStatManager
+New DO:413000009, dclass:TargetManager
+New DO:413000003, dclass:DistributedMainWorld
+New DO:413000004, dclass:DistributedInstanceWorld
+New DO:413000006, dclass:PiratesMagicWordManager
+:12-02-2017 17:57:19 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:413000005, dclass:PiratesTimeManager
+New DO:413000007, dclass:DistributedTeleportMgr
+New DO:413000016, dclass:PVPManager
+New DO:413000012, dclass:DistributedPirateBandManager
+New DO:413000011, dclass:DistributedPirateProfileMgr
+New DO:413000014, dclass:DistributedLootManager
+New DO:413000015, dclass:Warden
+:12-02-2017 17:57:19 TimeManager: Clock sync roundtrip took 214.474 ms
+:12-02-2017 17:57:19 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2017 17:57:19 ClockDelta: previous delta at -127980.797 s, +/- 0.206 s.
+:12-02-2017 17:57:19 ClockDelta: new delta at -119807.803 s, +/- 0.107 s.
+:12-02-2017 17:57:19 ClockDelta: discarding previous delta.
+:12-02-2017 17:57:19 TimeManager: Local clock uncertainty +/- 0.107 s
+getSubTimeList
+ sub was None for 0
+New DO:413000017, dclass:DistributedOceanGrid
+New DO:413000018, dclass:SiegeManager
+New DO:413000019, dclass:Scoreboard
+New DO:413001058, dclass:DistributedIsland
+New DO:413000606, dclass:DistributedIsland
+New DO:413001988, dclass:DistributedIsland
+New DO:413000967, dclass:DistributedIsland
+New DO:413000965, dclass:DistributedIsland
+New DO:413001986, dclass:DistributedIsland
+New DO:413001890, dclass:DistributedIsland
+New DO:413001060, dclass:DistributedIsland
+New DO:413000520, dclass:DistributedIsland
+New DO:413000909, dclass:DistributedIsland
+New DO:413001142, dclass:DistributedIsland
+New DO:413001888, dclass:DistributedIsland
+New DO:413000053, dclass:DistributedIsland
+New DO:413002067, dclass:DistributedIsland
+New DO:413002065, dclass:DistributedIsland
+New DO:413000880, dclass:DistributedIsland
+New DO:413000051, dclass:DistributedIsland
+New DO:413001278, dclass:DistributedIsland
+New DO:413000492, dclass:DistributedIsland
+New DO:413001233, dclass:DistributedIsland
+New DO:413000808, dclass:DistributedIsland
+New DO:413000021, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 17:57:21 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 17:57:22 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:23 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:413002564, dclass:DistributedBuildingDoor
+New DO:413002193, dclass:DistributedBuildingDoor
+New DO:413002192, dclass:DistributedBuildingDoor
+New DO:413002159, dclass:DistributedBuildingDoor
+New DO:413002474, dclass:DistributedBuildingDoor
+New DO:413002473, dclass:DistributedBuildingDoor
+New DO:413002183, dclass:DistributedBuildingDoor
+New DO:413002586, dclass:DistributedBuildingDoor
+New DO:413002242, dclass:DistributedBuildingDoor
+New DO:413002402, dclass:DistributedBuildingDoor
+New DO:413002533, dclass:DistributedBuildingDoor
+New DO:413002204, dclass:DistributedBuildingDoor
+New DO:413002482, dclass:DistributedBuildingDoor
+New DO:413002532, dclass:DistributedBuildingDoor
+New DO:413002543, dclass:DistributedBuildingDoor
+New DO:413002507, dclass:DistributedBuildingDoor
+New DO:413002542, dclass:DistributedBuildingDoor
+New DO:413002524, dclass:DistributedBuildingDoor
+New DO:413002499, dclass:DistributedBuildingDoor
+New DO:413002236, dclass:DistributedBuildingDoor
+New DO:413002491, dclass:DistributedBuildingDoor
+New DO:413002235, dclass:DistributedBuildingDoor
+New DO:413002167, dclass:DistributedBuildingDoor
+New DO:413002166, dclass:DistributedBuildingDoor
+New DO:413002467, dclass:DistributedBuildingDoor
+New DO:413002490, dclass:DistributedBuildingDoor
+New DO:413002160, dclass:DistributedBuildingDoor
+New DO:413002514, dclass:DistributedBuildingDoor
+New DO:413002403, dclass:DistributedBuildingDoor
+New DO:413002592, dclass:DistributedTunnel
+New DO:413002598, dclass:DistributedTunnel
+New DO:413002600, dclass:DistributedTunnel
+:12-02-2017 17:57:24 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:26 PiratesClientRepository: Sending heartbeat mid-frame.
+Current position= , Maya Pos: , -1027.3, 1.4, 90.7, Panda Pos: , -1027.3, -90.7, 1.4, H: 19.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3566),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:57:33 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:57:36 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:37 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:39 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:57:59 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:58:05 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:58:13 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1234.0, 9.0, -164.9, Panda Pos: , -1234.0, 164.9, 9.0, H: 10.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3883),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:58:22 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:58:24 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1268.6, 10.8, -181.8, Panda Pos: , -1268.6, 181.8, 10.8, H: 68.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3883),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1276.0, 11.1, -184.7, Panda Pos: , -1276.0, 184.7, 11.1, H: 68.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1282.3, 11.3, -187.1, Panda Pos: , -1282.3, 187.1, 11.3, H: 68.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1289.5, 11.6, -189.9, Panda Pos: , -1289.5, 189.9, 11.6, H: 68.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1296.1, 12.0, -192.5, Panda Pos: , -1296.1, 192.5, 12.0, H: 68.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1302.2, 12.1, -194.9, Panda Pos: , -1302.2, 194.9, 12.1, H: 68.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1308.8, 12.1, -197.5, Panda Pos: , -1308.8, 197.5, 12.1, H: 61.9, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1313.7, 12.1, -201.9, Panda Pos: , -1313.7, 201.9, 12.1, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1318.0, 12.1, -206.7, Panda Pos: , -1318.0, 206.7, 12.1, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1322.0, 12.0, -210.9, Panda Pos: , -1322.0, 210.9, 12.0, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1326.3, 11.7, -214.9, Panda Pos: , -1326.3, 214.9, 11.7, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1331.2, 11.3, -220.5, Panda Pos: , -1331.2, 220.5, 11.3, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3882),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1335.8, 11.0, -225.5, Panda Pos: , -1335.8, 225.5, 11.0, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3962),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1341.6, 10.6, -232.0, Panda Pos: , -1341.6, 232.0, 10.6, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3962),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1347.5, 10.2, -238.7, Panda Pos: , -1347.5, 238.7, 10.2, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3962),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1351.8, 9.9, -243.4, Panda Pos: , -1351.8, 243.4, 9.9, H: 41.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:58:30 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:58:30 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 17:58:31 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:58:33 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1360.8, 9.4, -253.5, Panda Pos: , -1360.8, 253.5, 9.4, H: 42.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1364.9, 9.1, -258.0, Panda Pos: , -1364.9, 258.0, 9.1, H: 42.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1369.2, 8.9, -262.7, Panda Pos: , -1369.2, 262.7, 8.9, H: 42.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1373.6, 8.6, -267.7, Panda Pos: , -1373.6, 267.7, 8.6, H: 42.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1378.2, 8.3, -272.8, Panda Pos: , -1378.2, 272.8, 8.3, H: 40.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1381.1, 8.1, -278.8, Panda Pos: , -1381.1, 278.8, 8.1, H: 16.7, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1385.6, 7.8, -290.7, Panda Pos: , -1385.6, 290.7, 7.8, H: 40.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1390.1, 7.5, -295.7, Panda Pos: , -1390.1, 295.7, 7.5, H: 41.6, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 3961),, Ver: tlopo-rc-v1.7.7, , District: None
+Current position= , Maya Pos: , -1394.6, 7.2, -300.4, Panda Pos: , -1394.6, 300.4, 7.2, H: 55.2, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:58:36 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+Current position= , Maya Pos: , -1399.9, 6.9, -302.4, Panda Pos: , -1399.9, 302.4, 6.9, H: 84.3, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 17:58:38 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:59:47 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 17:59:48 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+getSubTimeList
+ sub was None for 255
+:12-02-2017 18:01:20 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1409.0, 6.4, -301.8, Panda Pos: , -1409.0, 301.8, 6.4, H: 95.8, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (413002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 18:01:23 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:01:36 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 18:01:41 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:01:42 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:01:47 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:01:47 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:01:47 LocalPirate(warning): ignoring arrivedOnDistrict 0, since arrivedOnDistrict 401000001 occured on the same frame
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002514
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002160
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002490
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002467
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002167
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002235
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002491
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002236
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002499
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002524
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002542
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002507
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002543
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002532
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002533
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002586
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002183
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002473
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002474
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002166
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002564
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002482
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002242
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002159
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002403
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002204
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002402
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002192
+:12-02-2017 18:01:47 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002193
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:47 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 PiratesClientRepository(warning): Asked to delete non-existent DistObj 413002068
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 TimeManager: Client disconnect reason 4.
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:01:48 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:401000008, dclass:DistributedTimeOfDayManager
+New DO:401000010, dclass:DistributedGameStatManager
+New DO:401000009, dclass:TargetManager
+New DO:401000003, dclass:DistributedMainWorld
+New DO:401000004, dclass:DistributedInstanceWorld
+New DO:401000006, dclass:PiratesMagicWordManager
+:12-02-2017 18:01:49 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:401000005, dclass:PiratesTimeManager
+New DO:401000007, dclass:DistributedTeleportMgr
+New DO:401000016, dclass:PVPManager
+New DO:401000012, dclass:DistributedPirateBandManager
+New DO:401000011, dclass:DistributedPirateProfileMgr
+New DO:401000014, dclass:DistributedLootManager
+New DO:401000015, dclass:Warden
+:12-02-2017 18:01:49 TimeManager: Clock sync roundtrip took 212.833 ms
+:12-02-2017 18:01:49 TimeManager: AI time delta is -0:01 from server delta
+:12-02-2017 18:01:49 ClockDelta: previous delta at -119807.803 s, +/- 0.182 s.
+:12-02-2017 18:01:49 ClockDelta: new delta at -26929.804 s, +/- 0.106 s.
+:12-02-2017 18:01:49 ClockDelta: discarding previous delta.
+:12-02-2017 18:01:49 TimeManager: Local clock uncertainty +/- 0.106 s
+getSubTimeList
+ sub was None for 0
+New DO:401000017, dclass:DistributedOceanGrid
+New DO:401000018, dclass:SiegeManager
+New DO:401000019, dclass:Scoreboard
+New DO:401001060, dclass:DistributedIsland
+New DO:401001233, dclass:DistributedIsland
+New DO:401000880, dclass:DistributedIsland
+New DO:401001058, dclass:DistributedIsland
+New DO:401000808, dclass:DistributedIsland
+New DO:401001890, dclass:DistributedIsland
+New DO:401002067, dclass:DistributedIsland
+New DO:401001142, dclass:DistributedIsland
+New DO:401000965, dclass:DistributedIsland
+New DO:401001988, dclass:DistributedIsland
+New DO:401000967, dclass:DistributedIsland
+New DO:401000053, dclass:DistributedIsland
+New DO:401000051, dclass:DistributedIsland
+New DO:401000606, dclass:DistributedIsland
+New DO:401001888, dclass:DistributedIsland
+New DO:401001986, dclass:DistributedIsland
+New DO:401000520, dclass:DistributedIsland
+New DO:401001278, dclass:DistributedIsland
+New DO:401000021, dclass:DistributedIsland
+New DO:401000492, dclass:DistributedIsland
+New DO:401002065, dclass:DistributedIsland
+New DO:401000909, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 18:01:51 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 18:01:53 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 18:01:53 Consumable(warning): Collision not found!
+:12-02-2017 18:01:53 Consumable(warning): Collision not found!
+:12-02-2017 18:01:53 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:401002473, dclass:DistributedBuildingDoor
+New DO:401002183, dclass:DistributedBuildingDoor
+New DO:401002507, dclass:DistributedBuildingDoor
+New DO:401002242, dclass:DistributedBuildingDoor
+New DO:401002236, dclass:DistributedBuildingDoor
+New DO:401002499, dclass:DistributedBuildingDoor
+New DO:401002235, dclass:DistributedBuildingDoor
+New DO:401002491, dclass:DistributedBuildingDoor
+New DO:401002490, dclass:DistributedBuildingDoor
+New DO:401002482, dclass:DistributedBuildingDoor
+New DO:401002167, dclass:DistributedBuildingDoor
+New DO:401002166, dclass:DistributedBuildingDoor
+New DO:401002474, dclass:DistributedBuildingDoor
+New DO:401002160, dclass:DistributedBuildingDoor
+New DO:401002159, dclass:DistributedBuildingDoor
+New DO:401002514, dclass:DistributedBuildingDoor
+New DO:401002467, dclass:DistributedBuildingDoor
+New DO:401002586, dclass:DistributedBuildingDoor
+New DO:401002204, dclass:DistributedBuildingDoor
+New DO:401002403, dclass:DistributedBuildingDoor
+New DO:401002564, dclass:DistributedBuildingDoor
+New DO:401002402, dclass:DistributedBuildingDoor
+New DO:401002543, dclass:DistributedBuildingDoor
+New DO:401002542, dclass:DistributedBuildingDoor
+New DO:401002533, dclass:DistributedBuildingDoor
+New DO:401002532, dclass:DistributedBuildingDoor
+New DO:401002524, dclass:DistributedBuildingDoor
+New DO:401002193, dclass:DistributedBuildingDoor
+New DO:401002192, dclass:DistributedBuildingDoor
+:12-02-2017 18:01:53 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 18:01:53 Consumable(warning): Collision not found!
+:12-02-2017 18:01:54 Consumable(warning): Collision not found!
+New DO:401002592, dclass:DistributedTunnel
+New DO:401002598, dclass:DistributedTunnel
+New DO:401002600, dclass:DistributedTunnel
+:12-02-2017 18:01:56 PiratesClientRepository: Sending heartbeat mid-frame.
+:12-02-2017 18:01:56 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4042, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:01:56 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:02:00 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:02:03 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:02:06 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1359.4, 8.9, -312.0, Panda Pos: , -1359.4, 312.0, 8.9, H: -156.3, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (401002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 18:02:08 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:02:19 Consumable(warning): Collision not found!
+:12-02-2017 18:02:21 Consumable(warning): Collision not found!
+:12-02-2017 18:02:23 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4122, render/MainWorld/GameArea/cellOrigin-4042)
+:12-02-2017 18:02:25 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4042, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:02:27 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-3961)
+:12-02-2017 18:02:31 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3961, render/MainWorld/GameArea/cellOrigin-3962)
+:12-02-2017 18:02:32 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3962, render/MainWorld/GameArea/cellOrigin-4042)
+:12-02-2017 18:02:33 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4042, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:02:35 Consumable(warning): Collision not found!
+:12-02-2017 18:02:37 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:02:38 Consumable(warning): Collision not found!
+:12-02-2017 18:02:39 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-3960)
+:12-02-2017 18:02:41 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4122, render/MainWorld/GameArea/cellOrigin-4121)
+:12-02-2017 18:02:42 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4121, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:02:42 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3960, render/MainWorld/GameArea/cellOrigin-3961)
+:12-02-2017 18:02:44 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:02:46 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3961, render/MainWorld/GameArea/cellOrigin-3962)
+:12-02-2017 18:02:46 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4042)
+:12-02-2017 18:02:47 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3962, render/MainWorld/GameArea/cellOrigin-3882)
+:12-02-2017 18:02:47 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4042, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:02:47 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:02:50 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:02:54 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:04:06 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:04:09 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:04:43 Consumable(warning): Collision not found!
+:12-02-2017 18:04:52 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:04:53 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:04:54 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:04:57 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:04:59 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:00 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:05:03 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:05:27 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:28 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:29 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:31 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:31 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:31 PiratesBase: Got window event: origin=(0, 23) size=(1920, 1017) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:34 Consumable(warning): Collision not found!
+:12-02-2017 18:05:42 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:42 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:42 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:42 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:43 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:05:44 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:45 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:05:49 Consumable(warning): Collision not found!
+:12-02-2017 18:05:50 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:05:54 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4042, render/MainWorld/GameArea/cellOrigin-3962)
+:12-02-2017 18:05:54 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3962, render/MainWorld/GameArea/cellOrigin-3961)
+:12-02-2017 18:05:58 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3961, render/MainWorld/GameArea/cellOrigin-3960)
+:12-02-2017 18:06:15 Consumable(warning): Collision not found!
+:12-02-2017 18:06:19 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4122, render/MainWorld/GameArea/cellOrigin-4121)
+:12-02-2017 18:06:19 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4121, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:06:24 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-3961)
+:12-02-2017 18:06:25 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3961, render/MainWorld/GameArea/cellOrigin-3960)
+:12-02-2017 18:06:25 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:28 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:30 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:31 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:31 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:34 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:35 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:36 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:37 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:38 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:40 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:06:41 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+frame rate: 78.8 fps|0.001d|8 avs|0 ships|Loading: Padres Del Fuego|1034|1130|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:06:50 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3960, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:06:53 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:07:21 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3960, render/MainWorld/GameArea/cellOrigin-3961)
+:12-02-2017 18:08:02 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3961, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:08:02 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:08:06 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:08:57 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:00 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:06 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:07 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:08 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:09 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:13 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:14 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:16 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:18 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:24 Consumable(warning): Collision not found!
+:12-02-2017 18:09:55 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:09:56 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+getSubTimeList
+ sub was None for 255
+:12-02-2017 18:10:48 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4042, render/MainWorld/GameArea/cellOrigin-4041)
+:12-02-2017 18:10:53 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:10:55 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-3960)
+:12-02-2017 18:11:07 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:11:10 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:11:15 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 18:11:17 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:11:17 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3960, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:11:19 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+frame rate: 72.7 fps|0.001d|6 avs|0 ships|Loading: Padres Del Fuego|1334|1430|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:12:08 Consumable(warning): Collision not found!
+:12-02-2017 18:12:22 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4041, render/MainWorld/GameArea/cellOrigin-4040)
+:12-02-2017 18:12:24 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:12:26 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:12:26 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-4040, render/MainWorld/GameArea/cellOrigin-4039)
+:12-02-2017 18:12:31 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:12:31 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:12:31 LocalPirate(warning): ignoring arrivedOnDistrict 0, since arrivedOnDistrict 402000001 occured on the same frame
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002524
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002532
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002533
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002542
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002543
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002586
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002467
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002160
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002474
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002491
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002235
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002499
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002236
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002507
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002183
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002473
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002482
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002242
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002159
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002403
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002204
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002402
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002193
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002192
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002514
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002490
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002564
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002166
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002167
+:12-02-2017 18:12:32 PiratesClientRepository(warning): Asked to delete non-existent DistObj 401002068
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 TimeManager: Client disconnect reason 4.
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:12:32 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:402000008, dclass:DistributedTimeOfDayManager
+New DO:402000010, dclass:DistributedGameStatManager
+New DO:402000009, dclass:TargetManager
+New DO:402000003, dclass:DistributedMainWorld
+New DO:402000004, dclass:DistributedInstanceWorld
+New DO:402000006, dclass:PiratesMagicWordManager
+:12-02-2017 18:12:33 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:402000005, dclass:PiratesTimeManager
+New DO:402000007, dclass:DistributedTeleportMgr
+New DO:402000016, dclass:PVPManager
+New DO:402000012, dclass:DistributedPirateBandManager
+New DO:402000011, dclass:DistributedPirateProfileMgr
+New DO:402000014, dclass:DistributedLootManager
+New DO:402000015, dclass:Warden
+:12-02-2017 18:12:33 TimeManager: Clock sync roundtrip took 205.774 ms
+:12-02-2017 18:12:33 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2017 18:12:33 ClockDelta: previous delta at -26929.804 s, +/- 0.285 s.
+:12-02-2017 18:12:33 ClockDelta: new delta at -233839.814 s, +/- 0.103 s.
+:12-02-2017 18:12:33 ClockDelta: discarding previous delta.
+:12-02-2017 18:12:33 TimeManager: Local clock uncertainty +/- 0.103 s
+getSubTimeList
+ sub was None for 0
+New DO:402000017, dclass:DistributedOceanGrid
+New DO:402000018, dclass:SiegeManager
+New DO:402000019, dclass:Scoreboard
+New DO:402002067, dclass:DistributedIsland
+New DO:402002065, dclass:DistributedIsland
+New DO:402001988, dclass:DistributedIsland
+New DO:402001986, dclass:DistributedIsland
+New DO:402001890, dclass:DistributedIsland
+New DO:402001888, dclass:DistributedIsland
+New DO:402001278, dclass:DistributedIsland
+New DO:402001233, dclass:DistributedIsland
+New DO:402001142, dclass:DistributedIsland
+New DO:402001060, dclass:DistributedIsland
+New DO:402001058, dclass:DistributedIsland
+New DO:402000967, dclass:DistributedIsland
+New DO:402000965, dclass:DistributedIsland
+New DO:402000909, dclass:DistributedIsland
+New DO:402000880, dclass:DistributedIsland
+New DO:402000808, dclass:DistributedIsland
+New DO:402000520, dclass:DistributedIsland
+New DO:402000492, dclass:DistributedIsland
+New DO:402000606, dclass:DistributedIsland
+New DO:402000053, dclass:DistributedIsland
+New DO:402000051, dclass:DistributedIsland
+New DO:402000021, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 18:12:35 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 18:12:38 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+:12-02-2017 18:12:38 PiratesClientRepository: Sending heartbeat mid-frame.
+:12-02-2017 18:12:38 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:402002473, dclass:DistributedBuildingDoor
+New DO:402002586, dclass:DistributedBuildingDoor
+New DO:402002564, dclass:DistributedBuildingDoor
+New DO:402002543, dclass:DistributedBuildingDoor
+New DO:402002542, dclass:DistributedBuildingDoor
+New DO:402002533, dclass:DistributedBuildingDoor
+New DO:402002532, dclass:DistributedBuildingDoor
+New DO:402002524, dclass:DistributedBuildingDoor
+New DO:402002514, dclass:DistributedBuildingDoor
+New DO:402002507, dclass:DistributedBuildingDoor
+New DO:402002499, dclass:DistributedBuildingDoor
+New DO:402002491, dclass:DistributedBuildingDoor
+New DO:402002490, dclass:DistributedBuildingDoor
+New DO:402002482, dclass:DistributedBuildingDoor
+New DO:402002474, dclass:DistributedBuildingDoor
+New DO:402002160, dclass:DistributedBuildingDoor
+New DO:402002467, dclass:DistributedBuildingDoor
+New DO:402002402, dclass:DistributedBuildingDoor
+New DO:402002403, dclass:DistributedBuildingDoor
+New DO:402002242, dclass:DistributedBuildingDoor
+New DO:402002236, dclass:DistributedBuildingDoor
+New DO:402002235, dclass:DistributedBuildingDoor
+New DO:402002204, dclass:DistributedBuildingDoor
+New DO:402002193, dclass:DistributedBuildingDoor
+New DO:402002192, dclass:DistributedBuildingDoor
+New DO:402002183, dclass:DistributedBuildingDoor
+New DO:402002167, dclass:DistributedBuildingDoor
+New DO:402002166, dclass:DistributedBuildingDoor
+New DO:402002159, dclass:DistributedBuildingDoor
+:12-02-2017 18:12:38 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:402002592, dclass:DistributedTunnel
+New DO:402002598, dclass:DistributedTunnel
+New DO:402002600, dclass:DistributedTunnel
+:12-02-2017 18:12:41 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1408.6, 6.4, -301.8, Panda Pos: , -1408.6, 301.8, 6.4, H: -132.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (402002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 18:12:44 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:12:57 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1408.6, 6.4, -301.8, Panda Pos: , -1408.6, 301.8, 6.4, H: -132.0, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (402002067, 4041),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 18:13:01 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:13:39 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:13:40 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:13:42 Consumable(warning): Collision not found!
+:12-02-2017 18:13:51 PiratesBase: Got window event: origin=(1, 31) size=(958, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 18:13:53 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:00 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:12 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:18 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:20 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:22 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:23 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 18:14:39 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:14:43 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:14:43 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:14:43 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:43 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:43 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:43 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:43 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:43 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002167
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002183
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002235
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002236
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002467
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002160
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002474
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002491
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002499
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002507
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002524
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002532
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002533
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002542
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002543
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002586
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002473
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002242
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002482
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002159
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002402
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002193
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002192
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002514
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002166
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002564
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002490
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002204
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002403
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 PiratesClientRepository(warning): Asked to delete non-existent DistObj 402002068
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 TimeManager: Client disconnect reason 4.
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:14:44 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:403000008, dclass:DistributedTimeOfDayManager
+New DO:403000010, dclass:DistributedGameStatManager
+New DO:403000009, dclass:TargetManager
+New DO:403000003, dclass:DistributedMainWorld
+New DO:403000004, dclass:DistributedInstanceWorld
+New DO:403053921, dclass:DistributedInstanceWorld
+New DO:403054408, dclass:DistributedInstanceWorld
+New DO:403033627, dclass:DistributedInstanceWorld
+New DO:403000006, dclass:PiratesMagicWordManager
+:12-02-2017 18:14:45 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:403000005, dclass:PiratesTimeManager
+New DO:403000007, dclass:DistributedTeleportMgr
+New DO:403000016, dclass:PVPManager
+New DO:403054407, dclass:DistributedPiratesTutorialWorld
+New DO:403033626, dclass:DistributedPiratesTutorialWorld
+New DO:403053920, dclass:DistributedPiratesTutorialWorld
+New DO:403000012, dclass:DistributedPirateBandManager
+New DO:403000011, dclass:DistributedPirateProfileMgr
+New DO:403000014, dclass:DistributedLootManager
+New DO:403000015, dclass:Warden
+:12-02-2017 18:14:45 TimeManager: Clock sync roundtrip took 200.049 ms
+:12-02-2017 18:14:45 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2017 18:14:45 ClockDelta: previous delta at -233839.814 s, +/- 0.140 s.
+:12-02-2017 18:14:45 ClockDelta: new delta at -61200.809 s, +/- 0.100 s.
+:12-02-2017 18:14:45 ClockDelta: discarding previous delta.
+:12-02-2017 18:14:45 TimeManager: Local clock uncertainty +/- 0.100 s
+getSubTimeList
+ sub was None for 0
+New DO:403000017, dclass:DistributedOceanGrid
+New DO:403000018, dclass:SiegeManager
+New DO:403000019, dclass:Scoreboard
+New DO:403000051, dclass:DistributedIsland
+New DO:403001060, dclass:DistributedIsland
+New DO:403001058, dclass:DistributedIsland
+New DO:403001890, dclass:DistributedIsland
+New DO:403001888, dclass:DistributedIsland
+New DO:403000606, dclass:DistributedIsland
+New DO:403000880, dclass:DistributedIsland
+New DO:403001988, dclass:DistributedIsland
+New DO:403000520, dclass:DistributedIsland
+New DO:403000967, dclass:DistributedIsland
+New DO:403000965, dclass:DistributedIsland
+New DO:403000053, dclass:DistributedIsland
+New DO:403001278, dclass:DistributedIsland
+New DO:403000808, dclass:DistributedIsland
+New DO:403001142, dclass:DistributedIsland
+New DO:403000492, dclass:DistributedIsland
+New DO:403000021, dclass:DistributedIsland
+New DO:403002067, dclass:DistributedIsland
+New DO:403000909, dclass:DistributedIsland
+New DO:403002065, dclass:DistributedIsland
+New DO:403001986, dclass:DistributedIsland
+New DO:403001233, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 18:14:47 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+:12-02-2017 18:14:49 PiratesClientRepository: Sending heartbeat mid-frame.
+:12-02-2017 18:14:49 DistributedNPCTownfolk(warning): tried to create duplicate proximity sphere
+New DO:403002235, dclass:DistributedBuildingDoor
+New DO:403002542, dclass:DistributedBuildingDoor
+New DO:403002167, dclass:DistributedBuildingDoor
+New DO:403002499, dclass:DistributedBuildingDoor
+New DO:403002166, dclass:DistributedBuildingDoor
+New DO:403002204, dclass:DistributedBuildingDoor
+New DO:403002532, dclass:DistributedBuildingDoor
+New DO:403002564, dclass:DistributedBuildingDoor
+New DO:403002507, dclass:DistributedBuildingDoor
+New DO:403002160, dclass:DistributedBuildingDoor
+New DO:403002159, dclass:DistributedBuildingDoor
+New DO:403002192, dclass:DistributedBuildingDoor
+New DO:403002491, dclass:DistributedBuildingDoor
+New DO:403002490, dclass:DistributedBuildingDoor
+New DO:403002236, dclass:DistributedBuildingDoor
+New DO:403002183, dclass:DistributedBuildingDoor
+New DO:403002467, dclass:DistributedBuildingDoor
+New DO:403002533, dclass:DistributedBuildingDoor
+New DO:403002586, dclass:DistributedBuildingDoor
+New DO:403002193, dclass:DistributedBuildingDoor
+New DO:403002403, dclass:DistributedBuildingDoor
+New DO:403002402, dclass:DistributedBuildingDoor
+New DO:403002242, dclass:DistributedBuildingDoor
+New DO:403002524, dclass:DistributedBuildingDoor
+New DO:403002474, dclass:DistributedBuildingDoor
+New DO:403002473, dclass:DistributedBuildingDoor
+New DO:403002514, dclass:DistributedBuildingDoor
+New DO:403002482, dclass:DistributedBuildingDoor
+New DO:403002543, dclass:DistributedBuildingDoor
+New DO:403002592, dclass:DistributedTunnel
+New DO:403002598, dclass:DistributedTunnel
+New DO:403002600, dclass:DistributedTunnel
+:12-02-2017 18:14:51 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+Current position= , Maya Pos: , -1075.4, 1.3, 202.1, Panda Pos: , -1075.4, -202.1, 1.3, H: -133.2, Model: pir_m_are_isl_delFuego, Texture: medium, Terrain: med, Avatar: med, Loc: (403002067, 3485),, Ver: tlopo-rc-v1.7.7, , District: None
+:12-02-2017 18:14:54 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:15:07 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:15:09 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:15:21 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 18:15:43 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:15:55 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:15:57 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:16:01 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:416000002, dclass:DistributedPopulationTracker
+New DO:403000002, dclass:DistributedPopulationTracker
+New DO:401000002, dclass:DistributedPopulationTracker
+New DO:413000002, dclass:DistributedPopulationTracker
+New DO:404000002, dclass:DistributedPopulationTracker
+New DO:402000002, dclass:DistributedPopulationTracker
+New DO:410000002, dclass:DistributedPopulationTracker
+New DO:407000002, dclass:DistributedPopulationTracker
+New DO:414000002, dclass:DistributedPopulationTracker
+New DO:405000002, dclass:DistributedPopulationTracker
+New DO:409000002, dclass:DistributedPopulationTracker
+New DO:411000002, dclass:DistributedPopulationTracker
+New DO:406000002, dclass:DistributedPopulationTracker
+New DO:415000002, dclass:DistributedPopulationTracker
+New DO:412000002, dclass:DistributedPopulationTracker
+New DO:408000002, dclass:DistributedPopulationTracker
+:12-02-2017 18:16:02 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+New DO:403054688, dclass:DistributedPiratesTutorialWorld
+New DO:403054689, dclass:DistributedInstanceWorld
+New DO:403054723, dclass:DistributedPiratesTutorialWorld
+New DO:403054724, dclass:DistributedInstanceWorld
+:12-02-2017 18:19:10 PiratesClientRepository: Sending heartbeat mid-frame.
+frame rate: 78.8 fps|0.002d|1 avs|0 ships|Loading: Padres Del Fuego|1810|1906|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:19:45 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:19:46 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:19:52 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:19:52 DoInterestManager(warning): handleInterestDoneMessage: handle not found: 0
+:12-02-2017 18:19:52 LocalPirate(warning): ignoring arrivedOnDistrict 0, since arrivedOnDistrict 416000001 occured on the same frame
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002543
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002473
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002474
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002524
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002586
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002533
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002467
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002183
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002236
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002491
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002160
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002507
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002532
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002499
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002167
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002542
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002235
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002482
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002242
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002159
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002403
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002204
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002402
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002193
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002192
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002564
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002166
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002490
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002514
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 PiratesClientRepository(warning): Asked to delete non-existent DistObj 403002068
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 TimeManager: Client disconnect reason 4.
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+:12-02-2017 18:19:52 DistributedMainWorld(warning): Trying to get water for world without worldGrid
+getSubTimeList
+ sub was None for 0
+New DO:416000008, dclass:DistributedTimeOfDayManager
+New DO:416000010, dclass:DistributedGameStatManager
+New DO:416000009, dclass:TargetManager
+New DO:416000003, dclass:DistributedMainWorld
+New DO:416000004, dclass:DistributedInstanceWorld
+New DO:416000006, dclass:PiratesMagicWordManager
+:12-02-2017 18:19:53 TimeManager: Clock sync: TimeManager.announceGenerate
+New DO:416000005, dclass:PiratesTimeManager
+New DO:416000007, dclass:DistributedTeleportMgr
+New DO:416000016, dclass:PVPManager
+New DO:416000012, dclass:DistributedPirateBandManager
+New DO:416000011, dclass:DistributedPirateProfileMgr
+New DO:416000014, dclass:DistributedLootManager
+New DO:416000015, dclass:Warden
+:12-02-2017 18:19:53 TimeManager: Clock sync roundtrip took 194.564 ms
+:12-02-2017 18:19:53 TimeManager: AI time delta is -0:00 from server delta
+:12-02-2017 18:19:53 ClockDelta: previous delta at -61200.809 s, +/- 0.186 s.
+:12-02-2017 18:19:53 ClockDelta: new delta at -127980.815 s, +/- 0.097 s.
+:12-02-2017 18:19:53 ClockDelta: discarding previous delta.
+:12-02-2017 18:19:53 TimeManager: Local clock uncertainty +/- 0.097 s
+getSubTimeList
+ sub was None for 0
+New DO:416000017, dclass:DistributedOceanGrid
+New DO:416000018, dclass:SiegeManager
+New DO:416000019, dclass:Scoreboard
+New DO:416001888, dclass:DistributedIsland
+New DO:416000909, dclass:DistributedIsland
+New DO:416000967, dclass:DistributedIsland
+New DO:416001233, dclass:DistributedIsland
+New DO:416001890, dclass:DistributedIsland
+New DO:416000492, dclass:DistributedIsland
+New DO:416000880, dclass:DistributedIsland
+New DO:416001142, dclass:DistributedIsland
+New DO:416000965, dclass:DistributedIsland
+New DO:416001988, dclass:DistributedIsland
+New DO:416000520, dclass:DistributedIsland
+New DO:416001986, dclass:DistributedIsland
+New DO:416001060, dclass:DistributedIsland
+New DO:416000808, dclass:DistributedIsland
+New DO:416002067, dclass:DistributedIsland
+New DO:416001058, dclass:DistributedIsland
+New DO:416002065, dclass:DistributedIsland
+New DO:416000053, dclass:DistributedIsland
+New DO:416000051, dclass:DistributedIsland
+New DO:416000021, dclass:DistributedIsland
+New DO:416001278, dclass:DistributedIsland
+New DO:416000606, dclass:DistributedIsland
+setEnvironment Default 0 None
+:12-02-2017 18:19:55 LoadingScreen(warning): step enterArea was started before loading screen was enabled
+setEnvironment -DataOnly- 255 {}
+getSubTimeList
+ sub was None for 255
+New DO:416002564, dclass:DistributedBuildingDoor
+New DO:416002167, dclass:DistributedBuildingDoor
+New DO:416002166, dclass:DistributedBuildingDoor
+New DO:416002533, dclass:DistributedBuildingDoor
+New DO:416002532, dclass:DistributedBuildingDoor
+New DO:416002242, dclass:DistributedBuildingDoor
+New DO:416002586, dclass:DistributedBuildingDoor
+New DO:416002236, dclass:DistributedBuildingDoor
+New DO:416002159, dclass:DistributedBuildingDoor
+New DO:416002235, dclass:DistributedBuildingDoor
+New DO:416002467, dclass:DistributedBuildingDoor
+New DO:416002160, dclass:DistributedBuildingDoor
+New DO:416002403, dclass:DistributedBuildingDoor
+New DO:416002499, dclass:DistributedBuildingDoor
+New DO:416002542, dclass:DistributedBuildingDoor
+New DO:416002524, dclass:DistributedBuildingDoor
+New DO:416002204, dclass:DistributedBuildingDoor
+New DO:416002507, dclass:DistributedBuildingDoor
+New DO:416002482, dclass:DistributedBuildingDoor
+New DO:416002193, dclass:DistributedBuildingDoor
+New DO:416002192, dclass:DistributedBuildingDoor
+New DO:416002474, dclass:DistributedBuildingDoor
+New DO:416002183, dclass:DistributedBuildingDoor
+New DO:416002514, dclass:DistributedBuildingDoor
+New DO:416002402, dclass:DistributedBuildingDoor
+New DO:416002543, dclass:DistributedBuildingDoor
+New DO:416002473, dclass:DistributedBuildingDoor
+New DO:416002491, dclass:DistributedBuildingDoor
+New DO:416002490, dclass:DistributedBuildingDoor
+New DO:416002592, dclass:DistributedTunnel
+New DO:416002598, dclass:DistributedTunnel
+New DO:416002600, dclass:DistributedTunnel
+:12-02-2017 18:22:01 ActorInterval(warning): Unknown animation for actor: sword_draw
+:12-02-2017 18:22:01 Consumable(warning): Collision not found!
+:12-02-2017 18:22:05 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3567, render/MainWorld/GameArea/cellOrigin-3566)
+:12-02-2017 18:22:07 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3566, render/MainWorld/GameArea/cellOrigin-3646)
+:12-02-2017 18:22:11 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3646, render/MainWorld/GameArea/cellOrigin-3645)
+:12-02-2017 18:22:12 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3645, render/MainWorld/GameArea/cellOrigin-3725)
+:12-02-2017 18:22:15 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3725, render/MainWorld/GameArea/cellOrigin-3724)
+getSubTimeList
+ sub was None for 255
+New DO:415000001, dclass:PiratesDistrict
+frame rate: 104.8 fps|0.001d|0 avs|0 ships|Loading: Padres Del Fuego|2118|2215|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:26:21 Consumable(warning): Collision not found!
+:12-02-2017 18:26:21 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3566, render/MainWorld/GameArea/cellOrigin-3565)
+:12-02-2017 18:26:24 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3565, render/MainWorld/GameArea/cellOrigin-3564)
+frame rate: 104.1 fps|0.001d|0 avs|0 ships|Loading: Padres Del Fuego|2418|2515|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:30:51 PiratesClientRepository: Sending heartbeat mid-frame.
+frame rate: 103.1 fps|0.001d|0 avs|0 ships|Loading: Padres Del Fuego|2718|2815|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:39:22 Consumable(warning): Collision not found!
+:12-02-2017 18:39:25 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3725, render/MainWorld/GameArea/cellOrigin-3645)
+:12-02-2017 18:39:27 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3645, render/MainWorld/GameArea/cellOrigin-3646)
+:12-02-2017 18:39:29 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3646, render/MainWorld/GameArea/cellOrigin-3566)
+:12-02-2017 18:39:32 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3566, render/MainWorld/GameArea/cellOrigin-3486)
+frame rate: 106.0 fps|0.001d|0 avs|0 ships|Loading: Padres Del Fuego|3018|3115|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+getSubTimeList
+ sub was None for 255
+:12-02-2017 18:44:42 PiratesClientRepository: Sending heartbeat mid-frame.
+frame rate: 103.4 fps|0.001d|0 avs|0 ships|Loading: Padres Del Fuego|3319|3415|r1s0s0t2c0e1c1t1m0e0f0x800y600s0|0x10de|0x1402|0.0MB|0.0MB|8121.6MB|0|nt.2.6.2|2.701,2.701|0,0 cpus|OpenGL
+:12-02-2017 18:44:56 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:44:58 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:44:59 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:44:59 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:45:32 PiratesClientRepository: Sending heartbeat mid-frame.
+:12-02-2017 18:47:11 ActorInterval(warning): Unknown animation for actor: sword_draw
+:12-02-2017 18:47:11 Consumable(warning): Collision not found!
+:12-02-2017 18:47:14 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3727, render/MainWorld/GameArea/cellOrigin-3647)
+:12-02-2017 18:47:17 DistributedPirate: handleWrtReparent(render/MainWorld/GameArea/cellOrigin-3647, render/MainWorld/GameArea/cellOrigin-3648)
+:12-02-2017 18:47:20 :display: Closing wglGraphicsWindow
+:12-02-2017 18:47:20 PiratesBase: Got window event: origin=(1, 31) size=(959, 1008) title="The Legend of Pirates Online [BETA]" !undecorated !fixed_size !fullscreen !foreground !minimized !open !cursor_hidden icon:resources/phase_4/etc/Pirates_Adds.ico absolute 
+:12-02-2017 18:47:20 PiratesBase: User closed main window.
+:12-02-2017 18:47:20 TimeManager: Client disconnect reason 2.
+:12-02-2017 18:47:20 ClassicFSM(warning): [gameFSM]: no transition exists from gameOff to closeShard
+:12-02-2017 18:47:20 PiratesBase(warning): Could not request shutdown; exiting anyway.
+:12-02-2017 18:47:20 PiratesBase: Exiting Pirates
+Traceback (most recent call last):
+  File "<compiled direct.x5g_c9bf3b02.x5g_ea1028f8>", line 61, in x5g_6e2eee5b
+  File "<compiled direct.x5g_c9bf3b02.x5g_ea1028f8>", line 55, in x5g_b91eeaea
+  File "<compiled direct.x5g_c9bf3b02.x5g_ea1028f8>", line 122, in x5g_5af84ce3
+  File "<compiled direct.x5g_c9bf3b02.x5g_5dc91725>", line 388, in x5g_3346eec3
+  File "<compiled direct.x5g_c9bf3b02.x5g_5dc91725>", line 473, in x5g_f4dd826a
+  File "<compiled direct.x5g_c9bf3b02.x5g_ab572c84>", line 2456, in x5g_eafd50c9
+  File "<compiled pirates.x5g_6d5c04c4.x5g_c1e6aa43>", line 932, in x5g_3286e242
+  File "<compiled pirates.x5g_6d5c04c4.x5g_c1e6aa43>", line 946, in x5g_5d3d987b
+SystemExit
+:12-02-2017 18:47:20 :task(error): Exception occurred in PythonTask eventManager
+Traceback (most recent call last):
+  File "<compiled direct.x5g_b6358ba3.x5g_9f94ef2a>", line 615, in x5g_083c11b3
+  File "<compiled direct.x5g_b6358ba3.x5g_9f94ef2a>", line 620, in x5g_3bea1e33
+  File "<compiled direct.x5g_c9bf3b02.x5g_ea1028f8>", line 61, in x5g_6e2eee5b
+  File "<compiled direct.x5g_c9bf3b02.x5g_ea1028f8>", line 55, in x5g_b91eeaea
+  File "<compiled direct.x5g_c9bf3b02.x5g_ea1028f8>", line 122, in x5g_5af84ce3
+  File "<compiled direct.x5g_c9bf3b02.x5g_5dc91725>", line 388, in x5g_3346eec3
+  File "<compiled direct.x5g_c9bf3b02.x5g_5dc91725>", line 473, in x5g_f4dd826a
+  File "<compiled direct.x5g_c9bf3b02.x5g_ab572c84>", line 2456, in x5g_eafd50c9
+  File "<compiled pirates.x5g_6d5c04c4.x5g_c1e6aa43>", line 932, in x5g_3286e242
+  File "<compiled pirates.x5g_6d5c04c4.x5g_c1e6aa43>", line 946, in x5g_5d3d987b
+SystemExit
+:12-02-2017 18:47:20 :task(error): Exception occurred in PythonTask readerPollTask-428895256
+:12-02-2017 18:47:20 TaskManager: TaskManager.destroy()
